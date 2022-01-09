@@ -1,0 +1,792 @@
+/* Extra small(col) < 576px */
+@media (min-width:0px) and (max-width:575px) {
+    header .header-slider h1 {
+        font-size: 30px;
+        margin-bottom: 0px;
+        line-height: 59px;
+    }
+    .header-top .contact p{
+        margin-bottom: 0px;
+        font-weight: 400;
+        font-family:Arial, Helvetica, sans-serif;
+        color: white;
+        font-size: 10px;
+    }
+    .header-top .account .user .fas{
+        margin: 0%;
+    }
+    main .content .content_txt .description p {
+        font-size: 14px;
+        color: #8f8f8f;
+        padding: 10px 25px;
+        word-spacing: 2px;
+        text-align: justify;
+    }
+    .social .item{
+        text-align: center;
+    }
+    .social .item .fab{
+        padding-bottom: 10px;
+    }
+    section .social .box .item p {
+        margin-bottom: 0;
+        font-size: 10px;
+        line-height: 15px;
+        margin-left: 10px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    section .social {
+        padding: 30px 0;
+    }
+
+
+    .contact {
+        font-size: 11px;
+    }
+
+    header .header-slider p {
+        font-size: 10px;
+        padding: 0px 20px;
+        line-height: 15px;
+        letter-spacing: 0;
+        word-spacing: 0%;
+    }
+
+    header .header-slider .btn-group .btn {
+        width: 125px;
+        height: 38px;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    header .header-slider .slider-img {
+        margin-left: 80px;
+    }
+
+    main .main-top form {
+        width: 230px;
+        background: white;
+        border-radius: 10px;
+        border: 1px solid white;
+        padding-left: 10px;
+    }
+
+    main .main-top form input {
+        width: 150px;
+
+    }
+
+    header .header-slider .carousel-control-next {
+        width: 25px;
+        height: 50px;
+        top: 40%;
+
+    }
+
+    header .header-slider .carousel-control-prev {
+        width: 25px;
+        height: 50px;
+        top: 40%;
+    }
+
+    main .main-brend .card img {
+        width: 100%;
+        height: 100%;
+       
+    }
+
+    main .main-icons {
+        margin-bottom: 25px;
+    }
+
+    main .maps {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+    section .maps {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    main .favoruite .favoruite-text .text-ol p {
+        margin-top: 2px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .brendlar-now .img-nows .brendsz {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 .img-1 {
+        padding-left: 5px;
+    }
+
+    .brendlar-now .img-nows .brendsz .img-1 {
+        padding-left: 5px;
+    }
+
+    main .mans-shops h3 {
+        text-align: center;
+        color: #414141;
+        font-size: 15px;
+    }
+
+    main .mans-shops p {
+        padding: 10px 25px 40px;
+        color: #999999;
+    }
+
+    footer {
+        text-align: center;
+        height: 1170px;
+        background: #000;
+        padding-bottom: 10px;
+       
+    }
+
+    footer .shops-footer .shops-brenddz img {
+        margin-top: 23px;
+        margin-bottom: 10px;
+        margin-left: 30px;
+        width: 30%;
+        height: 76%;
+    }
+
+   
+
+    footer .shops-footer .shops-img {
+       padding: 0%;
+        text-align: center;
+        padding-left: 20px;
+    }
+
+    footer .footer-end .text-right h5 {
+        margin-top: 40px;
+        color: #ffffff;
+        font-size: 11px;
+        line-height: 10px;
+    }
+    main .main-top .box{
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    main .main-top .mainig {
+        margin-top: 0px;
+        padding-left: 4px;
+    }
+    main .main-category .box .nav-link {
+        color: #555555;
+        font-size: 10px;
+    }
+    
+
+
+
+}
+
+
+
+/* Small (col-sm) ≥ 576px */
+@media (min-width:576px) and (max-width:767px) {
+    header .header-slider h1 {
+        font-size: 50px;
+        margin-bottom: 0px;
+        line-height: 65px;
+    }
+
+    header .header-slider p {
+        font-size: 15px;
+        padding: 5px 15px;
+        line-height: 15px;
+        letter-spacing: 0;
+        word-spacing: 0%;
+    }
+
+    header .header-slider .btn-group .btn {
+        width: 110px;
+        height: 50px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    header .header-slider .slider-img {
+        margin-left: 140px;
+    }
+
+    header .header-slider .carousel-control-next {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+
+    }
+
+    header .header-slider .carousel-control-prev {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+    }
+
+    main .main-brend .card img {
+        width: 100%;
+        height: 100%;
+       
+    }
+
+    main .main-icons {
+        margin-bottom: 25px;
+    }
+
+    main .maps {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    main .maps {
+        padding: 0%;
+    }
+    section .maps {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    section .maps {
+        padding: 0%;
+    }
+
+
+    main .favoruite .favoruite-text .text-ol p {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .brendlar-now .img-nows .brendsz {
+        width: 580px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 {
+        width: 580px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 .img-1 {
+        padding-left: 10px;
+    }
+
+    .brendlar-now .img-nows .brendsz .img-1 {
+        padding-left: 10px;
+    }
+
+    main .mans-shops h3 {
+        text-align: center;
+        color: #414141;
+        font-size: 17px;
+    }
+
+    main .mans-shops p {
+        padding: 10px 40px;
+        color: #999999;
+    }
+
+    footer {
+        width: auto;
+        height: 785px;
+        background: #000;
+    }
+
+    footer .shops-footer .shops-img {
+        width: 250px;
+        margin-left: 20px;
+    }
+    .footer-end.container{
+        padding: 0%;
+    }
+    .footer-end .rows{
+        margin-right: 0%;
+    }
+    .footer-end .lllooo{
+        padding:0%;
+        padding-left: 20px;
+    }
+    footer .footer-end .text-right{
+       padding-left: 70px;
+       padding-top: 50px;
+    }
+
+    .social .item{
+        text-align: center;
+    }
+    .social .item .fab{
+        padding-bottom: 10px;
+    }
+    section .social .box .item p {
+        margin-bottom: 0;
+        font-size: 15px;
+        line-height: 15px;
+        margin-left: 10px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    section .social {
+        padding: 30px 0;
+    }
+    
+
+
+    
+
+    
+
+}
+
+
+
+/* Medium (col-md) ≥ 768px */
+@media (min-width:768px) and (max-width:991px) {
+    header .header-slider h1 {
+        font-size: 60px;
+        margin-bottom: 0px;
+        line-height: 70px;
+    }
+
+    header .header-slider p {
+        font-size: 20px;
+        padding: 7px 0px;
+        line-height: 25px;
+        letter-spacing: 0;
+        word-spacing: 0%;
+    }
+
+    header .header-slider .btn-group .btn {
+        width: 150px;
+        height: 55px;
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    header .header-slider .slider-img {
+        margin-left: 230px;
+    }
+
+    header .header-slider .carousel-control-next {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+
+    }
+
+    header .header-slider .carousel-control-prev {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+    }
+
+    main .main-brend .card img {
+        width: 100%;
+        height: 100%;
+       
+    }
+
+    main .main-icons {
+        margin-bottom: 25px;
+    }
+
+    main .maps {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    main .maps {
+        padding: 0%;
+    }
+    section .maps {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    section .maps {
+        padding: 0%;
+    }
+
+    main .favoruite .favoruite-text .text-ol p {
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: -3px;
+    }
+
+    .brendlar-now .img-nows .brendsz {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 .img-1 {
+        padding-left: 5px;
+    }
+
+    .brendlar-now .img-nows .brendsz .img-1 {
+        padding-left: 5px;
+    }
+
+    main .mans-shops h3 {
+        text-align: center;
+        color: #414141;
+        font-size: 17px;
+    }
+
+    main .mans-shops p {
+        padding: 10px 40px;
+        color: #999999;
+    }
+    footer {
+        width: auto;
+        height: 790px;
+        background: #000;
+    }
+    footer .footer-end .txt-end ul {
+        width: 246px;
+        padding-left: 125px;
+       
+    }
+    footer .footer-end .text-right{
+        width: 155px;
+        padding-top: 40px;
+
+    }
+    footer .shops-footer .shops-brenddz img {
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+    .social .item{
+        text-align: center;
+    }
+    .social .item .fab{
+        padding-bottom: 10px;
+    }
+    section .social .box .item p {
+        margin-bottom: 0;
+        font-size: 15px;
+        line-height: 15px;
+        margin-left: 10px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    section .social {
+        padding: 30px 0;
+    }
+    
+}
+
+
+
+/* Large (col-lg) ≥ 992px */
+@media (min-width:992px) and (max-width:1199px) {
+    header .header-slider h1 {
+        font-size: 80px;
+        margin-bottom: 40px;
+        line-height: 60px;
+    }
+
+    header .header-slider p {
+        font-size: 15px;
+        line-height: 25px;
+        letter-spacing: 0;
+        word-spacing: 0%;
+    }
+
+    header .header-slider .btn-group .btn {
+        width: 155px;
+        height: 60px;
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+
+    header .header-slider .carousel-control-next {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+
+    }
+
+    header .header-slider .carousel-control-prev {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+    }
+
+    main .main-brend .card img {
+        width: 100%;
+        height: 100%;
+       
+    }
+
+    main .main-icons {
+        margin-bottom: 25px;
+    }
+
+    main .maps {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    section  .maps {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    main .img-boxxs {
+        margin-bottom: 30px;
+        padding-left: 10px;
+    }
+
+    main .favoruite .favoruite-text .text-ol p {
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: -3px;
+    }
+
+    .brendlar-now .img-nows .brendsz {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 .img-1 {
+        padding-left: 5px;
+    }
+
+    .brendlar-now .img-nows .brendsz .img-1 {
+        padding-left: 5px;
+    }
+
+    main .mans-shops h3 {
+        color: #414141;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    main .mans-shops p {
+        padding: 10px 60px 40px;
+        color: #999999;
+    }
+    footer {
+        width: auto;
+        height: 455px;
+        background: #000;
+    }
+    footer .footer-end .text-right{
+        width: 100px;
+       padding-top: 40px;
+       margin: 0%;
+
+    }
+    .footer-end .lllooo{
+        padding-top: 45PX;
+    }
+    footer .shops-footer .shops-brenddz{
+        padding-top: 40px;
+        HEIGHT: 190px;
+
+    }
+    footer .shops-footer .shops-brenddz img {
+        margin-top: 30px;
+        margin-right: 30px;
+    }
+    .social .item{
+        text-align: center;
+    }
+    .social .item .fab{
+        padding-bottom: 10px;
+    }
+    section .social .box .item p {
+        margin-bottom: 0;
+        font-size: 15px;
+        line-height: 15px;
+        margin-left: 10px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    section .social {
+        padding: 30px 0;
+    }
+
+
+
+}
+
+
+
+/* Extra large (col-xl) ≥ 1200px */
+@media (min-width:1200px) {
+    header .header-slider h1 {
+        font-size: 91px;
+        margin-bottom: 80px;
+        line-height: 70px;
+    }
+
+    header .header-slider p {
+        font-size: 15px;
+        line-height: 25px;
+        letter-spacing: 0;
+        word-spacing: 0%;
+    }
+
+    header .header-slider .btn-group .btn {
+        width: 160px;
+        height: 55px;
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+
+    header .header-slider .carousel-control-next {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+
+    }
+
+    header .header-slider .carousel-control-prev {
+        width: 30px;
+        height: 117px;
+        top: 35%;
+    }
+
+    main .main-brend .card img {
+        width: 100%;
+        height: 100%;
+       
+    }
+
+    main .main-icons {
+        margin-bottom: 25px;
+    }
+
+    main .maps {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    section  .maps {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+
+    main .favoruite .favoruite-text .text-ol p {
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: -9px;
+    }
+
+    .brendlar-now .img-nows .brendsz {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 {
+        width: 530px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .brendlar-now .img-nows .brendsz-1 .img-1 {
+        padding-left: 5px;
+    }
+
+    .brendlar-now .img-nows .brendsz .img-1 {
+        padding-left: 5px;
+    }
+
+    main .mans-shops h3 {
+        color: #414141;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    main .mans-shops p {
+        padding: 10px 60px 40px;
+        color: #999999;
+    }
+    footer .footer-end .text-right{
+        width: 100px;
+    
+
+    }
+    .footer-end .lllooo{
+        padding-top: 10PX;
+    }
+    footer .shops-footer .shops-brenddz img {
+        margin-right: 45px;
+        margin-top: 75px;
+    }
+    footer {
+        width: auto;
+        height: 400px;
+        background: #000;
+    }
+    .social .item{
+        text-align: center;
+    }
+    .social .item .fab{
+        padding-bottom: 10px;
+    }
+    section .social .box .item p {
+        margin-bottom: 0;
+        font-size: 15px;
+        line-height: 15px;
+        margin-left: 10px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    section .social {
+        padding: 30px 0;
+    }
+}
